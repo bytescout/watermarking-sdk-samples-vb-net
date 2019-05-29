@@ -32,35 +32,3 @@
 \Set Options for Text Watermark
 \Set Options for Tiled Text Watermark
 \Use Macros for Watermarks
-\Add Annotation Watermark with Options\Annotation preset (advanced settings) (VB.NET)
-\Add Colored Stamp to Image\StampFitsPageColor (VB.NET)
-\Add Date Time to Image\DateTime
-\Add Diagonal Stamp Watermark\StampFitsPageDiagonal
-\Add Diagonal Text Watermark\TextFitsPageDiagonal
-\Add Diagonal Text with Images with Options\TextFitsPageDiagonal (VB.NET)
-\Add Filename to Image\FileName (VB.NET)
-\Add Logo and Text to Image\LogoImageWithText
-\Add Logo and Text to Image\LogoImageWithText preset (VB.NET)
-\Add Logo and Text to Images with Options\LogoImageWithText preset (VB.NET)
-\Add Logo to Image\LogoImage (VB.NET)
-\Add Simple Text Watermark\SimpleText (VB.NET)
-\Add Simple Text Watermark to Image with Options\SimpleText (VB.NET)
-\Add Simple Watermark\hello_world_vb
-\Add Stamp for Whole Image\StampFitsPage
-\Add Stamp Watermark to Image\screenshots
-\Add Stamp Watermark to Image\Stamps
-\Add Tiled Diagonal Text Watermark to Image\TiledTextDiagonal
-\Add Tiled Text Watermark\TiledText
-\Add Tiled Vertical Text Watermark\TiledTextVertical
-\Add Vertical Text Watermark\SimpleVerticalText (VB.NET)
-\Add Vertical Text with Options\SimpleVerticalText (VB.NET)
-\Add Watermark and Fit within Resize\Fit within resize VB.NET
-\Add While Page Text Watermark to Image\TextFitsPage
-\Batch Watermark Set of Images\Batch watermarking
-\Change Image Resolution in DPI\Change DPI VB.NET
-\Resize Image in Actual Units\Actual units resize VB.NET
-\Resize Image in Percents\Percentage resize VB.NET
-\Resize Image in Pixels\Pixels resize VB.NET
-\Set Options for Text Watermark\TextFitsPage (VB.NET)
-\Set Options for Tiled Text Watermark\TiledText (VB.NET)
-\Use Macros for Watermarks\AnnotationMacros  (VB.NET)
